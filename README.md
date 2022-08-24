@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @shilpavazhappilly
+- SALESFORCE PLATFORM DEVELOPER
 - 👀 I’m interested in learning new languages, programming 
-- 🌱 I’m currently learning ios swift programming
+-
 - 📫 How to reach me shilpavpius@gmail.com
 
 <!---
